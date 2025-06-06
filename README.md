@@ -75,7 +75,7 @@ in Switzerland or were not covered by French-language media.
 A more in depth analysis of the results, the limits and the difficulties encountered during the project can be found in the report (report/Final_Report). 
 
 ## Installation and Usage 
-Due to the size of the dataset and the model, it hasn't been uploaded here. It must be scraped and recreated by the user himself (code provided). Furthermore, the dataset provided by Border Forensics is confidential. Therefore, those datasets arn't provided here. The scripts are in the folder notebook. Depending which Pipeline you are running, they must been run in different order (See the pipelines above). 
+Due to the size of the model, it hasn't been uploaded here. It must be recreated by the user himself (code provided). Furthermore, the dataset provided by Border Forensics is confidential. Therefore, those datasets arn't provided here. The scripts are in the folder notebook. Depending which Pipeline you are running, they must been run in different order (See the pipelines above). 
 
 The packages are installed at the beginning of each Jupyter notebook. For the script 'Apply_model.ipynb' and 'Matching.ipynb', the 'requirements_environ3.txt' must be used. For all other files, 'requirements_environ2.txt' can be used (two different environments, that wern't compatible). 
 
